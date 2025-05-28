@@ -1,6 +1,6 @@
 {
   "name": "dewatermark",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "A TypeScript/Node.js package for removing watermarks from images using AI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,12 +23,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dewatermark/dewatermark.git"
+    "url": "git+https://github.com/dewatermark/npm-dewatermark.git"
   },
   "bugs": {
-    "url": "https://github.com/dewatermark/dewatermark/issues"
+    "url": "https://github.com/dewatermark/npm-dewatermark"
   },
-  "homepage": "https://github.com/dewatermark/dewatermark#readme",
+  "homepage": "https://dewatermark.ai",
   "dependencies": {
     "axios": "^1.6.7",
     "form-data": "^4.0.0"
